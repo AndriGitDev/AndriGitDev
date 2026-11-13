@@ -4,7 +4,7 @@
 
 I founded [Kastro](https://kastro.is) for everything outside my day job at Nova. My projects span email security, private communication, developer tools, and the occasional movie-style hacker dashboard.
 
-[Website](https://kastro.is) · [LinkedIn](https://www.linkedin.com/in/andripetur/) · [Blog](https://blog.andri.is)
+[Website](https://kastro.is) · [LinkedIn](https://www.linkedin.com/in/andripetur/) · [Blog](https://www.andri.is)
 
 ## Things I've built
 
@@ -22,12 +22,12 @@ I founded [Kastro](https://kastro.is) for everything outside my day job at Nova.
 I write practical guides about cybersecurity, privacy, and AI for non-technical people.
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Give Every Service a Different Email Address](https://blog.andri.is/posts/email-aliases)
-- [Critical n8n Flaws: Your AI Workflows Might Be Compromised](https://blog.andri.is/posts/n8n-security)
-- [Your AI Agent Is Probably Exposed](https://blog.andri.is/posts/securing-your-ai-agent)
+- [Your AI Gateway Is Holding All the Keys](https://www.andri.is/blog/ai-gateways-hold-the-keys)
+- [Your AI Report Needs a Receipt Drawer](https://www.andri.is/blog/ai-reports-need-receipts)
+- [The AI Act Is Being Weakened Before It Starts](https://www.andri.is/blog/ai-act-weakened-before-it-starts)
 <!-- BLOG-POST-LIST:END -->
 
-[Read the blog →](https://blog.andri.is) · [Subscribe to the newsletter →](https://buttondown.com/andri_petur)
+[Read the blog →](https://www.andri.is)
 
 ---
 
