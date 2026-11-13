@@ -1,25 +1,34 @@
 # Hey, I'm Andri 👋
 
-**Technical Success Manager** at [Aftra.io](https://aftra.io) | **ISO 27001 & 42001 Lead Auditor**
+**Security, privacy & useful software. Built in Iceland.**
 
-I write about cybersecurity, privacy, and AI at **[blog.andri.is](https://blog.andri.is)** — practical guides for non-technical people.
+I founded [Kastro](https://kastro.is) for everything outside my day job at Nova. My projects span email security, private communication, developer tools, and the occasional movie-style hacker dashboard.
 
-### 🔒 Recent Articles
+[Website](https://kastro.is) · [LinkedIn](https://www.linkedin.com/in/andripetur/) · [Blog](https://blog.andri.is)
+
+## Things I've built
+
+| Project | What it does |
+| :--- | :--- |
+| [**dmark**](https://github.com/AndriGitDev/dmark-web) | Inspect SPF, DKIM, DMARC, and BIMI records, with guidance for securing your domain's email. |
+| [**Komms**](https://github.com/AndriGitDev/Komms) | End-to-end encrypted messaging designed to work on and off the grid. |
+| [**almanac**](https://github.com/AndriGitDev/almanac) | Persistent, searchable knowledge for coding agents, with session capture and MCP integration. |
+| [**DMZ**](https://github.com/AndriGitDev/dmz) | A Chromium extension for best-effort local AI masking. Available for alpha testing. |
+| [**hacktheplanet**](https://github.com/AndriGitDev/hacktheplanet) | A multi-panel hacker dashboard inspired by '90s and 2000s movie interfaces. |
+| [**Hunang**](https://github.com/AndriGitDev/Hunang-archive) | An archived SSH and Telnet honeypot field study, with a report and anonymous results. |
+
+## Writing
+
+I write practical guides about cybersecurity, privacy, and AI for non-technical people.
+
 <!-- BLOG-POST-LIST:START -->
 - [Why I Give Every Service a Different Email Address](https://blog.andri.is/posts/email-aliases)
 - [Critical n8n Flaws: Your AI Workflows Might Be Compromised](https://blog.andri.is/posts/n8n-security)
 - [Your AI Agent Is Probably Exposed](https://blog.andri.is/posts/securing-your-ai-agent)
 <!-- BLOG-POST-LIST:END -->
 
-### 🛠️ Projects
-- **[andri.is](https://andri.is)** — Portfolio & security policy
-- **[ThreatWatch](https://blog.andri.is/threatwatch)** — Daily cybersecurity news digest
-- **[DEFIANT](https://defiant.andri.is)** — Cyberpunk CVE visualizer
-- **[Draugar](https://github.com/AndriGitDev/Draugar)** — Privacy-first family location sharing
-
-### 📫 Connect
-[![Blog](https://img.shields.io/badge/Blog-blog.andri.is-00ff9d?style=flat-square)](https://blog.andri.is)
-[![Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-blue?style=flat-square)](https://buttondown.com/andri_petur)
+[Read the blog →](https://blog.andri.is) · [Subscribe to the newsletter →](https://buttondown.com/andri_petur)
 
 ---
+
 *🖖 Live long and prosper*
